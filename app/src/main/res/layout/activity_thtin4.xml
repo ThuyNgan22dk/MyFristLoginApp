@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg3"
+    tools:context=".Activity_Thtin4">
+
+    <EditText
+        android:id="@+id/edt4"
+        android:layout_width="285dp"
+        android:layout_height="wrap_content" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnAdd4"
+            android:text="Thêm" />
+        <Button
+            android:id="@+id/btnUp4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="92sp"
+            android:layout_toRightOf="@+id/btnAdd4"
+            android:text="Cập nhật"
+            android:layout_marginStart="92sp"
+            android:layout_toEndOf="@+id/btnAdd4" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/lv4"
+        android:layout_width="wrap_content"
+        android:layout_height="500dp" />
+    <Button
+        android:id="@+id/btnE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Trở lại" />
+
+</LinearLayout>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuanLyLaiXe</string>
+    <string name="title_activity_tkbuon_ngu">Activity_TKBuonNgu</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="date">Date:</string>
+    <string name="score">Score:</string>
+    <string name="time">Time:</string>
+    <string name="back">back</string>
+    <string name="d_m_y">D/M/Y</string>
+    <string-array name="lv">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243505693771",
+    "firebase_url": "https://driver-drowsiness-detect-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "driver-drowsiness-detect",
+    "storage_bucket": "driver-drowsiness-detect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243505693771:android:8146f1f5519ab63a4ab9ce",
+        "android_client_info": {
+          "package_name": "com.example.myfristloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243505693771-isk7nd8us65rd536itce80qgdkuis3gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfristloginapp",
+            "certificate_hash": "d7ed21ae0137e8669692cdee8a588776109028ea"
+          }
+        },
+        {
+          "client_id": "243505693771-anfka6vms7iv3gaj9d3lspenvhjtln16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9O-QtOu_XkqSDMP2RXWOkCzkOvHHJQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243505693771-anfka6vms7iv3gaj9d3lspenvhjtln16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

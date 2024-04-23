@@ -1,0 +1,3 @@
+rootProject.name = "MyFristLoginApp"
+include ':app'
+include ':mylibrary'
